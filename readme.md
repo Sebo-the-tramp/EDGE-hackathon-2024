@@ -32,5 +32,5 @@ python app.py
 - Siti Maghfirotul Ulyah, Khalifa University, PhD Mathematics
 - Sebastian Cavada, Mohamed bin Zayed University of Artificial Intelligence, MSc Computer Vision
 - Sara Abdulbasit, Ajman University, BSc Networking Security
-- Mariam Al Zaabi, Khalifa University, MSc Computer Science
+- Mariam Alzaabi, Khalifa University, MSc Computer Science
 - Segni Desalegn, Khalifa University, BSc Computer Science
