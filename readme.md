@@ -29,7 +29,7 @@ python app.py
 ### Team members
 
 - Muhammad Luthfi Shahab, Khalifa University, PhD Mathematics
-- Siti Maghfirotul Ulyah, Khalifa University, PhD Mathematic s
+- Siti Maghfirotul Ulyah, Khalifa University, PhD Mathematics
 - Sebastian Cavada, Mohamed bin Zayed University of Artificial Intelligence, MSc Computer Vision
 - Sara Abdulbasit, Ajman University, BSc Networking Security
 - Mariam Al Zaabi, Khalifa University, MSc Computer Science
